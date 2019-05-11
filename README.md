@@ -11,3 +11,5 @@ Do zrobienia:
 7) Fragment implementacji
 
 Należy wykorzystać wzorzec projektowy (w diagramie klas) i github.
+
+Elo ziomki
