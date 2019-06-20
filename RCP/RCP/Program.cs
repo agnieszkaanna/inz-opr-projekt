@@ -14,9 +14,10 @@ namespace RCP
         [STAThread]
         static void Main()
         {
+            SystemRCP program = new SystemRCP();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(program.Start());
         }
     }
 }

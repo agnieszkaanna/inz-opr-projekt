@@ -1,0 +1,10 @@
+E:\Aga\Studia\informatyka\inz-opr-projekt\RCP\RCP\bin\Debug\RCP.exe.config
+E:\Aga\Studia\informatyka\inz-opr-projekt\RCP\RCP\bin\Debug\RCP.exe
+E:\Aga\Studia\informatyka\inz-opr-projekt\RCP\RCP\bin\Debug\RCP.pdb
+E:\Aga\Studia\informatyka\inz-opr-projekt\RCP\RCP\obj\Debug\RCP.csprojResolveAssemblyReference.cache
+E:\Aga\Studia\informatyka\inz-opr-projekt\RCP\RCP\obj\Debug\RCP.MainWindow.resources
+E:\Aga\Studia\informatyka\inz-opr-projekt\RCP\RCP\obj\Debug\RCP.Properties.Resources.resources
+E:\Aga\Studia\informatyka\inz-opr-projekt\RCP\RCP\obj\Debug\RCP.csproj.GenerateResource.Cache
+E:\Aga\Studia\informatyka\inz-opr-projekt\RCP\RCP\obj\Debug\RCP.csproj.CoreCompileInputs.cache
+E:\Aga\Studia\informatyka\inz-opr-projekt\RCP\RCP\obj\Debug\RCP.exe
+E:\Aga\Studia\informatyka\inz-opr-projekt\RCP\RCP\obj\Debug\RCP.pdb
