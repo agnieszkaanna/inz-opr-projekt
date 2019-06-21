@@ -13,8 +13,5 @@ Do zrobienia:
 
 Należy wykorzystać wzorzec projektowy (w diagramie klas) i github.
 
-.
-
-
 Hej, wrzuciłam to co przepisałam z notatek i wymyśliłam... więcej na razie nie dam rady. Popatrzcie na to.
 Aga
