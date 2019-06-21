@@ -13,7 +13,7 @@ Do zrobienia:
 
 Należy wykorzystać wzorzec projektowy (w diagramie klas) i github.
 
-Elo ziomki
+.
 
 
 Hej, wrzuciłam to co przepisałam z notatek i wymyśliłam... więcej na razie nie dam rady. Popatrzcie na to.
